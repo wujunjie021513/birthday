@@ -34,12 +34,12 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "生日快乐",
-        play: "音乐",
-        bannar_coming: "彩带",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "来个蛋糕",
-        light_candle: "来只蜡烛",
-        wish_message: "生日快乐!",
+        play: "放音乐",
+        bannar_coming: "挂彩带",
+        balloons_flying: "放气球",
+        cake_fadein: "来个大蛋糕",
+        light_candle: "点蜡烛",
+        wish_message: "生日快乐啦啦啦!",
         story: "A MESSAGE FOR YOU",
     }
 };
