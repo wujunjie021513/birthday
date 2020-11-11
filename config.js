@@ -49,6 +49,11 @@ var config = {
         "虽然有好事、也有坏事": "./imgs/2_3.png",
         "但终究会成为前进的力量": "./imgs/2_4.png",
         "茄，生日快乐！": "./imgs/qie.png",
+        "送你一个电子大蛋糕啦！": "./imgs/qie.png",
+        "柔和的时间": "./imgs/4_2.png",
+        "有更多的欢笑和快乐": "./imgs/4_6.png",
+        "生日快乐~~!": "./imgs/4_8.png",
+        "（撒花~）": "./imgs/4_9.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -59,6 +64,6 @@ var config = {
         cake_fadein: "来个生日大蛋糕",
         light_candle: "点根蜡烛",
         wish_message: "茄生日快乐啦啦啦!",
-        story: "A MESSAGE FOR YOU",
+        story: "一小段留言~",
     }
 };
