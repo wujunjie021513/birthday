@@ -30,8 +30,8 @@ var config = {
         "希望你的盒子里",
         "有更多的欢笑和快乐",
         "最后再说一遍",
-        "生日快乐~~",
-        "（快把大蛋糕摆上来吧）",
+        "生日快乐~~!",
+        "（撒花~）",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -47,12 +47,12 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "按下按钮试试",
+        turn_on: "按一按试试？",
         play: "放音乐",
-        bannar_coming: "挂彩带",
-        balloons_flying: "放气球",
-        cake_fadein: "来个大蛋糕",
-        light_candle: "点蜡烛",
+        bannar_coming: "挂生日彩带",
+        balloons_flying: "放生日气球",
+        cake_fadein: "来个生日大蛋糕",
+        light_candle: "点根蜡烛",
         wish_message: "茄生日快乐啦啦啦!",
         story: "A MESSAGE FOR YOU",
     }
